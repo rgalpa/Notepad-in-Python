@@ -12,4 +12,4 @@ A lightweight Notepad application built using Python and Tkinter. This app allow
 ## 📸 Screenshot
 
 ![Notepad Screenshot](1.png)
-![Notepad Screenshot](1.png)
+![Notepad Screenshot](2.png)
